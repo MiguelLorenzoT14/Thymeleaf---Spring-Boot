@@ -4,4 +4,9 @@ Este proyecto se enfoca en consumir el backend denominado "spring-boot-backend-d
 
 En resumen, Thymeleaf se utiliza en este proyecto para consumir y mostrar datos del backend "spring-boot-backend-de-buenas-practicas" de manera eficaz y siguiendo prácticas recomendadas en el desarrollo web.
 
-#Thymeleaf #ResTemplate #DesarrolloWeb #BuenasPrácticas
+# Hashtags
+- #Thymeleaf 
+- #ResTemplate
+- #DesarrolloWeb
+
+
